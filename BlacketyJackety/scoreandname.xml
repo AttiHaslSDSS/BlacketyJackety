@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE player [
+	<!ENTITY score "Chips">
+	<!ENTITY name "playername">
+	<!-- .... -->
+	
+]>
+<player>
+	<ps>&score;</ps>
+	<pn>&name;</pn>
+</player>
+
